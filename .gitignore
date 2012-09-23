@@ -9,3 +9,4 @@ doc/app
 db/*.sqlite3
 .rvmrc
 solr/data
+.tddium*
