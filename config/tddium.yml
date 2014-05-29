@@ -1,3 +1,5 @@
 ---
 :tddium:
   :ruby_version: ruby-1.9.2-p290
+  :solr:
+    :version: '3.6.1'
