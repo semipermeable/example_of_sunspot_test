@@ -5,7 +5,7 @@ gem 'sqlite3'
 gem 'sunspot_rails'
 
 group :test do
-  gem 'cucumber-rails'
+  gem 'cucumber-rails', require: false
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'sunspot_test'
